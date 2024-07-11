@@ -1,4 +1,3 @@
-#to build
 pipeline {
   agent any
   environment {
